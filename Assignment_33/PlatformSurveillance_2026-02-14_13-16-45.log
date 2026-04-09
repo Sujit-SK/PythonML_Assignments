@@ -1,0 +1,2516 @@
+--------------------------------------------------
+----- Marvellous platform surveillance system ----
+Log created at : Sat Feb 14 13:16:45 2026
+--------------------------------------------------
+
+------------------ System Report -----------------
+CPU Usage :  6.5 %
+--------------------------------------------------
+RAM Usage : 66.0 %
+--------------------------------------------------
+
+Disc usages report
+--------------------------------------------------
+C:\ -> 80.1 % used
+D:\ -> 47.2 % used
+--------------------------------------------------
+
+Network Usage Report
+Sent : 45.57 MB
+Recv : 192.19 MB
+--------------------------------------------------
+PID : 0
+Name : System Idle Process
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+StartTime : 1970-01-01 05:30:00
+CPU % : 1073.60
+Memory % : 0.00
+RAM Used in MB : 0.0078125
+No. of Threade created by process : 36
+No. of Files open by process : 0
+Vartual Memory Used in MB : 0.05859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 4
+Name : System
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+StartTime : 1970-01-01 05:30:00
+CPU % : 0.00
+Memory % : 0.04
+RAM Used in MB : 5.65234375
+No. of Threade created by process : 322
+No. of Files open by process : 0
+Vartual Memory Used in MB : 0.06640625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 232
+Name : QtWebEngineProcess.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:47:26
+CPU % : 0.00
+Memory % : 0.16
+RAM Used in MB : 24.91796875
+No. of Threade created by process : 8
+No. of Files open by process : 6
+Vartual Memory Used in MB : 8.19140625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 1184
+Name : StartMenuExperienceHost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:37
+CPU % : 0.00
+Memory % : 0.77
+RAM Used in MB : 120.8671875
+No. of Threade created by process : 22
+No. of Files open by process : 23
+Vartual Memory Used in MB : 73.7734375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 1260
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:46:17
+CPU % : 0.00
+Memory % : 0.39
+RAM Used in MB : 61.49609375
+No. of Threade created by process : 21
+No. of Files open by process : 34
+Vartual Memory Used in MB : 24.33203125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 1448
+Name : cncmd.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:21
+CPU % : 0.00
+Memory % : 0.05
+RAM Used in MB : 7.515625
+No. of Threade created by process : 1
+No. of Files open by process : 0
+Vartual Memory Used in MB : 1.609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 1568
+Name : Widgets.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:38
+CPU % : 0.00
+Memory % : 0.33
+RAM Used in MB : 51.2734375
+No. of Threade created by process : 12
+No. of Files open by process : 13
+Vartual Memory Used in MB : 9.609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 1752
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 43.47265625
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 20.16015625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 1824
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:02
+CPU % : 0.00
+Memory % : 0.08
+RAM Used in MB : 12.01171875
+No. of Threade created by process : 13
+No. of Files open by process : 3
+Vartual Memory Used in MB : 47.15625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 2220
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:08
+CPU % : 0.00
+Memory % : 0.32
+RAM Used in MB : 49.8125
+No. of Threade created by process : 29
+No. of Files open by process : 21
+Vartual Memory Used in MB : 268.52734375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 2368
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:31
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 46.14453125
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 23.765625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 2408
+Name : msedge.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:44:15
+CPU % : 0.00
+Memory % : 0.22
+RAM Used in MB : 34.9453125
+No. of Threade created by process : 16
+No. of Files open by process : 6
+Vartual Memory Used in MB : 27.33984375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 2484
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:05
+CPU % : 0.00
+Memory % : 0.12
+RAM Used in MB : 18.5078125
+No. of Threade created by process : 24
+No. of Files open by process : 32
+Vartual Memory Used in MB : 15.171875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 2512
+Name : msedge.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:44:17
+CPU % : 0.00
+Memory % : 0.16
+RAM Used in MB : 25.390625
+No. of Threade created by process : 15
+No. of Files open by process : 8
+Vartual Memory Used in MB : 19.0078125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 2764
+Name : svchost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:52:45
+CPU % : 0.00
+Memory % : 0.09
+RAM Used in MB : 13.6015625
+No. of Threade created by process : 3
+No. of Files open by process : 2
+Vartual Memory Used in MB : 1.84765625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 2820
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:10
+CPU % : 2.00
+Memory % : 0.03
+RAM Used in MB : 5.46875
+No. of Threade created by process : 13
+No. of Files open by process : 7
+Vartual Memory Used in MB : 9.30859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 2944
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:55
+CPU % : 0.00
+Memory % : 3.12
+RAM Used in MB : 492.57421875
+No. of Threade created by process : 17
+No. of Files open by process : 12
+Vartual Memory Used in MB : 713.4140625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 3344
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:37
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 46.42578125
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 26.2265625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 3460
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:46
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 44.703125
+No. of Threade created by process : 19
+No. of Files open by process : 16
+Vartual Memory Used in MB : 13.64453125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 3508
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:39
+CPU % : 0.00
+Memory % : 0.40
+RAM Used in MB : 63.2265625
+No. of Threade created by process : 26
+No. of Files open by process : 35
+Vartual Memory Used in MB : 60.18359375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 3512
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 44.56640625
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 23.97265625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 3856
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:32
+CPU % : 0.00
+Memory % : 0.30
+RAM Used in MB : 46.9609375
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 25.91796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 4032
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:39
+CPU % : 0.00
+Memory % : 0.27
+RAM Used in MB : 42.8046875
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 25.98828125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 4104
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:49
+CPU % : 0.00
+Memory % : 0.27
+RAM Used in MB : 42.00390625
+No. of Threade created by process : 24
+No. of Files open by process : 21
+Vartual Memory Used in MB : 27.70703125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 4648
+Name : OneDrive.Sync.Service.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:43
+CPU % : 0.00
+Memory % : 0.33
+RAM Used in MB : 52.40625
+No. of Threade created by process : 22
+No. of Files open by process : 20
+Vartual Memory Used in MB : 52.86328125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 4828
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:46
+CPU % : 0.30
+Memory % : 2.23
+RAM Used in MB : 351.10546875
+No. of Threade created by process : 43
+No. of Files open by process : 126
+Vartual Memory Used in MB : 412.7421875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 4932
+Name : conhost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:34
+CPU % : 0.00
+Memory % : 0.06
+RAM Used in MB : 9.03515625
+No. of Threade created by process : 3
+No. of Files open by process : 4
+Vartual Memory Used in MB : 1.75
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 5096
+Name : msedge.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:44:15
+CPU % : 0.00
+Memory % : 0.11
+RAM Used in MB : 17.60546875
+No. of Threade created by process : 10
+No. of Files open by process : 18
+Vartual Memory Used in MB : 9.1328125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 5220
+Name : RuntimeBroker.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:38
+CPU % : 0.00
+Memory % : 0.37
+RAM Used in MB : 58.66796875
+No. of Threade created by process : 12
+No. of Files open by process : 10
+Vartual Memory Used in MB : 12.6328125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 5300
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 43.609375
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 24.78515625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 5684
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:37
+CPU % : 0.00
+Memory % : 0.26
+RAM Used in MB : 41.41796875
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 21.74609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 5816
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:41
+CPU % : 0.00
+Memory % : 0.12
+RAM Used in MB : 18.3203125
+No. of Threade created by process : 9
+No. of Files open by process : 17
+Vartual Memory Used in MB : 9.3515625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 5820
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:26
+CPU % : 0.00
+Memory % : 0.30
+RAM Used in MB : 47.5078125
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 26.7890625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 5932
+Name : svchost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:33
+CPU % : 0.00
+Memory % : 0.23
+RAM Used in MB : 36.04296875
+No. of Threade created by process : 11
+No. of Files open by process : 10
+Vartual Memory Used in MB : 11.015625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 6152
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:05
+CPU % : 0.00
+Memory % : 0.04
+RAM Used in MB : 6.6796875
+No. of Threade created by process : 11
+No. of Files open by process : 28
+Vartual Memory Used in MB : 11.45703125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 6352
+Name : AdobeCollabSync.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:59
+CPU % : 0.00
+Memory % : 0.12
+RAM Used in MB : 19.65234375
+No. of Threade created by process : 11
+No. of Files open by process : 2
+Vartual Memory Used in MB : 7.31640625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 6380
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:37
+CPU % : 0.00
+Memory % : 0.32
+RAM Used in MB : 50.31640625
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 28.78515625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 6880
+Name : conhost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:41
+CPU % : 0.00
+Memory % : 0.06
+RAM Used in MB : 9.12890625
+No. of Threade created by process : 2
+No. of Files open by process : 1
+Vartual Memory Used in MB : 1.40625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 7104
+Name : UserOOBEBroker.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:42
+CPU % : 0.00
+Memory % : 0.07
+RAM Used in MB : 11.40625
+No. of Threade created by process : 1
+No. of Files open by process : 2
+Vartual Memory Used in MB : 2.0078125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 7124
+Name : svchost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:37
+CPU % : 0.00
+Memory % : 0.26
+RAM Used in MB : 41.5390625
+No. of Threade created by process : 8
+No. of Files open by process : 9
+Vartual Memory Used in MB : 8.64453125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 7552
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:36
+CPU % : 0.00
+Memory % : 0.27
+RAM Used in MB : 42.08203125
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 22.40234375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 7760
+Name : LinkedIn.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:39
+CPU % : 0.20
+Memory % : 0.89
+RAM Used in MB : 140.03125
+No. of Threade created by process : 25
+No. of Files open by process : 85
+Vartual Memory Used in MB : 92.5859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 7992
+Name : ms-teams.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:11
+CPU % : 0.90
+Memory % : 0.19
+RAM Used in MB : 29.4921875
+No. of Threade created by process : 81
+No. of Files open by process : 26
+Vartual Memory Used in MB : 78.80859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 8072
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 45.59375
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 27.93359375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 8236
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:04
+CPU % : 1.20
+Memory % : 0.34
+RAM Used in MB : 53.15625
+No. of Threade created by process : 56
+No. of Files open by process : 220
+Vartual Memory Used in MB : 80.42578125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 8672
+Name : mc-extn-browserhost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:34
+CPU % : 0.00
+Memory % : 0.11
+RAM Used in MB : 16.80859375
+No. of Threade created by process : 42
+No. of Files open by process : 2
+Vartual Memory Used in MB : 7.10546875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 9108
+Name : uihost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:35
+CPU % : 0.00
+Memory % : 0.21
+RAM Used in MB : 33.30078125
+No. of Threade created by process : 65
+No. of Files open by process : 2
+Vartual Memory Used in MB : 16.1015625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 9892
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.30
+RAM Used in MB : 47.27734375
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 28.15625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 10056
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:32
+CPU % : 0.00
+Memory % : 0.27
+RAM Used in MB : 42.609375
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 20.84375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 10540
+Name : AMDRSServ.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:22
+CPU % : 0.00
+Memory % : 0.57
+RAM Used in MB : 90.30078125
+No. of Threade created by process : 11
+No. of Files open by process : 1
+Vartual Memory Used in MB : 6.0859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 10568
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:02
+CPU % : 0.00
+Memory % : 0.05
+RAM Used in MB : 7.31640625
+No. of Threade created by process : 10
+No. of Files open by process : 14
+Vartual Memory Used in MB : 9.0
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 10664
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:02
+CPU % : 0.00
+Memory % : 0.17
+RAM Used in MB : 26.58203125
+No. of Threade created by process : 21
+No. of Files open by process : 19
+Vartual Memory Used in MB : 14.859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 10668
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:41
+CPU % : 0.40
+Memory % : 0.28
+RAM Used in MB : 43.8125
+No. of Threade created by process : 22
+No. of Files open by process : 19
+Vartual Memory Used in MB : 17.82421875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 10732
+Name : explorer.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:34
+CPU % : 17.30
+Memory % : 2.17
+RAM Used in MB : 342.3125
+No. of Threade created by process : 99
+No. of Files open by process : 67
+Vartual Memory Used in MB : 204.37890625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 10780
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:05
+CPU % : 0.00
+Memory % : 0.04
+RAM Used in MB : 6.5625
+No. of Threade created by process : 37
+No. of Files open by process : 3
+Vartual Memory Used in MB : 35.234375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 10792
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:46
+CPU % : 1.60
+Memory % : 1.16
+RAM Used in MB : 182.24609375
+No. of Threade created by process : 30
+No. of Files open by process : 4
+Vartual Memory Used in MB : 319.1953125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 11152
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.30
+RAM Used in MB : 47.08984375
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 29.99609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 11224
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:41
+CPU % : 0.10
+Memory % : 0.14
+RAM Used in MB : 22.22265625
+No. of Threade created by process : 13
+No. of Files open by process : 7
+Vartual Memory Used in MB : 8.98828125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 11320
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:22
+CPU % : 0.00
+Memory % : 0.26
+RAM Used in MB : 41.80078125
+No. of Threade created by process : 17
+No. of Files open by process : 22
+Vartual Memory Used in MB : 19.6953125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 11440
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:30
+CPU % : 0.00
+Memory % : 0.27
+RAM Used in MB : 43.35546875
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 20.484375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 11612
+Name : AsusOLEDShifter.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:39
+CPU % : 0.00
+Memory % : 0.08
+RAM Used in MB : 13.328125
+No. of Threade created by process : 5
+No. of Files open by process : 1
+Vartual Memory Used in MB : 1.98828125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 11692
+Name : conhost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:52
+CPU % : 1.60
+Memory % : 0.05
+RAM Used in MB : 7.984375
+No. of Threade created by process : 5
+No. of Files open by process : 1
+Vartual Memory Used in MB : 1.41796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 11712
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:49
+CPU % : 0.20
+Memory % : 1.05
+RAM Used in MB : 166.14453125
+No. of Threade created by process : 26
+No. of Files open by process : 17
+Vartual Memory Used in MB : 182.88671875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 11788
+Name : SearchHost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:37
+CPU % : 0.00
+Memory % : 0.71
+RAM Used in MB : 111.875
+No. of Threade created by process : 19
+No. of Files open by process : 28
+Vartual Memory Used in MB : 44.734375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 11836
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:05:43
+CPU % : 0.00
+Memory % : 2.12
+RAM Used in MB : 333.703125
+No. of Threade created by process : 27
+No. of Files open by process : 55
+Vartual Memory Used in MB : 294.58984375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 12960
+Name : msedge.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:44:15
+CPU % : 0.00
+Memory % : 0.26
+RAM Used in MB : 40.359375
+No. of Threade created by process : 21
+No. of Files open by process : 19
+Vartual Memory Used in MB : 17.0078125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 13060
+Name : MoNotificationUx.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:10:33
+CPU % : 0.00
+Memory % : 0.08
+RAM Used in MB : 13.0
+No. of Threade created by process : 1
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.265625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 13928
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:41
+CPU % : 0.00
+Memory % : 0.26
+RAM Used in MB : 41.44921875
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 20.7734375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 13968
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 45.55078125
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 25.86328125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 14320
+Name : SystemSettings.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : stopped
+StartTime : 2026-02-14 11:52:41
+CPU % : 0.00
+Memory % : 0.01
+RAM Used in MB : 2.08203125
+No. of Threade created by process : 53
+No. of Files open by process : 20
+Vartual Memory Used in MB : 185.5703125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 14332
+Name : conhost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:54
+CPU % : 0.00
+Memory % : 0.05
+RAM Used in MB : 7.5546875
+No. of Threade created by process : 5
+No. of Files open by process : 1
+Vartual Memory Used in MB : 1.40625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 14388
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:41
+CPU % : 0.00
+Memory % : 0.27
+RAM Used in MB : 43.23828125
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 21.203125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 15536
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:39
+CPU % : 0.00
+Memory % : 0.05
+RAM Used in MB : 8.36328125
+No. of Threade created by process : 7
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.51171875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 15544
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:05
+CPU % : 0.00
+Memory % : 0.06
+RAM Used in MB : 8.83203125
+No. of Threade created by process : 7
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.4765625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 15916
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:48
+CPU % : 0.00
+Memory % : 0.25
+RAM Used in MB : 39.25390625
+No. of Threade created by process : 20
+No. of Files open by process : 21
+Vartual Memory Used in MB : 21.59765625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 16052
+Name : AdobeCollabSync.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:59
+CPU % : 0.00
+Memory % : 0.25
+RAM Used in MB : 40.0234375
+No. of Threade created by process : 36
+No. of Files open by process : 12
+Vartual Memory Used in MB : 22.24609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 16112
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:37
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 44.25
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 25.25390625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 16340
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:37
+CPU % : 0.00
+Memory % : 0.26
+RAM Used in MB : 41.25390625
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 21.81640625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 16404
+Name : SDXHelper.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:33:43
+CPU % : 0.00
+Memory % : 0.20
+RAM Used in MB : 31.953125
+No. of Threade created by process : 21
+No. of Files open by process : 12
+Vartual Memory Used in MB : 19.64453125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 16464
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:49
+CPU % : 0.00
+Memory % : 0.60
+RAM Used in MB : 95.14453125
+No. of Threade created by process : 30
+No. of Files open by process : 9
+Vartual Memory Used in MB : 110.34765625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 16732
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:46
+CPU % : 5.30
+Memory % : 2.11
+RAM Used in MB : 332.97265625
+No. of Threade created by process : 23
+No. of Files open by process : 54
+Vartual Memory Used in MB : 343.75390625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 16916
+Name : RuntimeBroker.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:41
+CPU % : 0.00
+Memory % : 0.09
+RAM Used in MB : 13.5859375
+No. of Threade created by process : 2
+No. of Files open by process : 0
+Vartual Memory Used in MB : 2.5078125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 16964
+Name : ApplicationFrameHost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:52:41
+CPU % : 0.00
+Memory % : 0.26
+RAM Used in MB : 41.015625
+No. of Threade created by process : 7
+No. of Files open by process : 9
+Vartual Memory Used in MB : 20.32421875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 17224
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:28
+CPU % : 0.20
+Memory % : 0.06
+RAM Used in MB : 10.25
+No. of Threade created by process : 13
+No. of Files open by process : 6
+Vartual Memory Used in MB : 9.08203125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 17532
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:41
+CPU % : 0.50
+Memory % : 0.87
+RAM Used in MB : 136.703125
+No. of Threade created by process : 60
+No. of Files open by process : 104
+Vartual Memory Used in MB : 59.22265625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 17620
+Name : FileCoAuth.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:45:09
+CPU % : 0.10
+Memory % : 0.18
+RAM Used in MB : 28.73046875
+No. of Threade created by process : 6
+No. of Files open by process : 1
+Vartual Memory Used in MB : 11.04296875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 17684
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:32
+CPU % : 0.20
+Memory % : 0.50
+RAM Used in MB : 79.140625
+No. of Threade created by process : 21
+No. of Files open by process : 20
+Vartual Memory Used in MB : 48.421875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 17756
+Name : svchost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:33
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 44.0703125
+No. of Threade created by process : 3
+No. of Files open by process : 8
+Vartual Memory Used in MB : 10.59375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 17848
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:24
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 44.51953125
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 21.6796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 17892
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:32
+CPU % : 0.00
+Memory % : 0.13
+RAM Used in MB : 20.70703125
+No. of Threade created by process : 11
+No. of Files open by process : 21
+Vartual Memory Used in MB : 11.671875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 18164
+Name : RuntimeBroker.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:51:14
+CPU % : 0.00
+Memory % : 0.15
+RAM Used in MB : 23.53125
+No. of Threade created by process : 3
+No. of Files open by process : 2
+Vartual Memory Used in MB : 2.99609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 18208
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:49
+CPU % : 0.00
+Memory % : 0.59
+RAM Used in MB : 93.0390625
+No. of Threade created by process : 23
+No. of Files open by process : 7
+Vartual Memory Used in MB : 84.98828125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 18300
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 45.48046875
+No. of Threade created by process : 20
+No. of Files open by process : 22
+Vartual Memory Used in MB : 22.8671875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 18344
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:29
+CPU % : 0.00
+Memory % : 0.36
+RAM Used in MB : 56.046875
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 37.2890625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 18468
+Name : python.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 13:15:45
+CPU % : 94.30
+Memory % : 0.15
+RAM Used in MB : 23.54296875
+No. of Threade created by process : 4
+No. of Files open by process : 3
+Vartual Memory Used in MB : 14.59765625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 18488
+Name : AsusScreenXpertUserUI.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:38
+CPU % : 0.00
+Memory % : 0.09
+RAM Used in MB : 14.20703125
+No. of Threade created by process : 4
+No. of Files open by process : 3
+Vartual Memory Used in MB : 2.8984375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 18588
+Name : svchost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:44
+CPU % : 0.00
+Memory % : 0.15
+RAM Used in MB : 23.8984375
+No. of Threade created by process : 4
+No. of Files open by process : 7
+Vartual Memory Used in MB : 5.56640625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 18616
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:46:17
+CPU % : 5.40
+Memory % : 2.14
+RAM Used in MB : 336.91796875
+No. of Threade created by process : 24
+No. of Files open by process : 63
+Vartual Memory Used in MB : 259.21875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 19076
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:41
+CPU % : 0.00
+Memory % : 0.23
+RAM Used in MB : 35.98828125
+No. of Threade created by process : 13
+No. of Files open by process : 12
+Vartual Memory Used in MB : 15.81640625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 19232
+Name : AppActions.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:47:46
+CPU % : 0.00
+Memory % : 0.27
+RAM Used in MB : 42.3671875
+No. of Threade created by process : 7
+No. of Files open by process : 0
+Vartual Memory Used in MB : 13.32421875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 19264
+Name : ms-teams.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:04
+CPU % : 0.40
+Memory % : 0.23
+RAM Used in MB : 36.96875
+No. of Threade created by process : 71
+No. of Files open by process : 24
+Vartual Memory Used in MB : 56.61328125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 19280
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:49
+CPU % : 0.00
+Memory % : 0.58
+RAM Used in MB : 91.9140625
+No. of Threade created by process : 25
+No. of Files open by process : 8
+Vartual Memory Used in MB : 84.80078125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 19336
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:39
+CPU % : 0.10
+Memory % : 0.67
+RAM Used in MB : 106.21875
+No. of Threade created by process : 49
+No. of Files open by process : 100
+Vartual Memory Used in MB : 42.41796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 19360
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.33
+RAM Used in MB : 52.32421875
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 38.21484375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 19432
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:02
+CPU % : 0.00
+Memory % : 0.06
+RAM Used in MB : 9.1015625
+No. of Threade created by process : 7
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.46484375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 19644
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:33
+CPU % : 0.00
+Memory % : 0.54
+RAM Used in MB : 85.71484375
+No. of Threade created by process : 24
+No. of Files open by process : 22
+Vartual Memory Used in MB : 76.37109375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 19664
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:45
+CPU % : 0.00
+Memory % : 0.89
+RAM Used in MB : 141.015625
+No. of Threade created by process : 55
+No. of Files open by process : 61
+Vartual Memory Used in MB : 118.90625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 20092
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:30
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 43.60546875
+No. of Threade created by process : 20
+No. of Files open by process : 22
+Vartual Memory Used in MB : 20.72265625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 20116
+Name : AsusOptimizationStartupTask.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:33
+CPU % : 0.00
+Memory % : 0.13
+RAM Used in MB : 20.796875
+No. of Threade created by process : 7
+No. of Files open by process : 3
+Vartual Memory Used in MB : 3.9375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 20132
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:30
+CPU % : 0.00
+Memory % : 0.27
+RAM Used in MB : 42.96484375
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 24.03515625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 20292
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:48
+CPU % : 0.20
+Memory % : 0.13
+RAM Used in MB : 21.23046875
+No. of Threade created by process : 13
+No. of Files open by process : 7
+Vartual Memory Used in MB : 9.0703125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 20408
+Name : cmd.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:34
+CPU % : 0.00
+Memory % : 0.03
+RAM Used in MB : 4.21875
+No. of Threade created by process : 1
+No. of Files open by process : 0
+Vartual Memory Used in MB : 1.9609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 20772
+Name : msedge.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:44:16
+CPU % : 0.00
+Memory % : 0.39
+RAM Used in MB : 61.96875
+No. of Threade created by process : 26
+No. of Files open by process : 33
+Vartual Memory Used in MB : 64.91015625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 20804
+Name : AsusScreenXpertReunion.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:38
+CPU % : 0.00
+Memory % : 0.21
+RAM Used in MB : 33.4921875
+No. of Threade created by process : 15
+No. of Files open by process : 13
+Vartual Memory Used in MB : 92.28125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 20808
+Name : WhatsApp.Root.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:00
+CPU % : 0.60
+Memory % : 1.58
+RAM Used in MB : 248.5234375
+No. of Threade created by process : 43
+No. of Files open by process : 136
+Vartual Memory Used in MB : 93.421875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 20816
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.30
+RAM Used in MB : 47.39453125
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 29.34765625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 21140
+Name : WidgetService.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:22
+CPU % : 0.00
+Memory % : 0.15
+RAM Used in MB : 22.98828125
+No. of Threade created by process : 6
+No. of Files open by process : 9
+Vartual Memory Used in MB : 4.99609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 21188
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:32
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 46.0234375
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 27.38671875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 21304
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:32
+CPU % : 0.60
+Memory % : 2.19
+RAM Used in MB : 344.72265625
+No. of Threade created by process : 46
+No. of Files open by process : 185
+Vartual Memory Used in MB : 271.859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 21732
+Name : RtkAudUService64.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:04
+CPU % : 0.10
+Memory % : 0.05
+RAM Used in MB : 7.84375
+No. of Threade created by process : 15
+No. of Files open by process : 1
+Vartual Memory Used in MB : 13.3125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 21920
+Name : cmd.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:52
+CPU % : 0.00
+Memory % : 0.04
+RAM Used in MB : 5.69140625
+No. of Threade created by process : 1
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.18359375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 22004
+Name : RuntimeBroker.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:04
+CPU % : 0.00
+Memory % : 0.07
+RAM Used in MB : 11.34375
+No. of Threade created by process : 3
+No. of Files open by process : 0
+Vartual Memory Used in MB : 2.12890625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 22008
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:32
+CPU % : 0.00
+Memory % : 0.33
+RAM Used in MB : 51.93359375
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 24.14453125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 22056
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:37
+CPU % : 0.00
+Memory % : 0.32
+RAM Used in MB : 50.49609375
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 39.1953125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 22532
+Name : ms-teams.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:09
+CPU % : 0.70
+Memory % : 0.21
+RAM Used in MB : 32.54296875
+No. of Threade created by process : 84
+No. of Files open by process : 26
+Vartual Memory Used in MB : 59.70703125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 22772
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:24
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 45.64453125
+No. of Threade created by process : 20
+No. of Files open by process : 22
+Vartual Memory Used in MB : 21.04296875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 22796
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:32
+CPU % : 0.10
+Memory % : 2.73
+RAM Used in MB : 430.42578125
+No. of Threade created by process : 39
+No. of Files open by process : 59
+Vartual Memory Used in MB : 432.67578125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 22848
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 45.6171875
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 28.390625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 23112
+Name : taskhostw.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:33
+CPU % : 0.10
+Memory % : 0.15
+RAM Used in MB : 23.10546875
+No. of Threade created by process : 9
+No. of Files open by process : 8
+Vartual Memory Used in MB : 8.0390625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 23368
+Name : SecurityHealthSystray.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:53
+CPU % : 0.00
+Memory % : 0.08
+RAM Used in MB : 12.37109375
+No. of Threade created by process : 1
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.05859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 23384
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:19
+CPU % : 0.00
+Memory % : 1.05
+RAM Used in MB : 165.19921875
+No. of Threade created by process : 26
+No. of Files open by process : 40
+Vartual Memory Used in MB : 146.265625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 23540
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:59
+CPU % : 0.00
+Memory % : 0.26
+RAM Used in MB : 40.90625
+No. of Threade created by process : 21
+No. of Files open by process : 21
+Vartual Memory Used in MB : 23.59765625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 23684
+Name : sihost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:33
+CPU % : 0.00
+Memory % : 0.32
+RAM Used in MB : 49.76171875
+No. of Threade created by process : 12
+No. of Files open by process : 2
+Vartual Memory Used in MB : 8.17578125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 23788
+Name : svchost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:44:50
+CPU % : 0.00
+Memory % : 0.10
+RAM Used in MB : 15.9921875
+No. of Threade created by process : 6
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.19921875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 23844
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:51
+CPU % : 0.00
+Memory % : 0.34
+RAM Used in MB : 53.8203125
+No. of Threade created by process : 20
+No. of Files open by process : 247
+Vartual Memory Used in MB : 38.33203125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 23872
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:38
+CPU % : 0.00
+Memory % : 0.32
+RAM Used in MB : 50.05078125
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 22.1875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 23900
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:30
+CPU % : 0.00
+Memory % : 0.36
+RAM Used in MB : 56.66796875
+No. of Threade created by process : 29
+No. of Files open by process : 22
+Vartual Memory Used in MB : 65.5703125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 24216
+Name : backgroundTaskHost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:30
+CPU % : 0.00
+Memory % : 0.31
+RAM Used in MB : 49.6015625
+No. of Threade created by process : 6
+No. of Files open by process : 3
+Vartual Memory Used in MB : 24.921875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 24408
+Name : msedge.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:44:15
+CPU % : 0.00
+Memory % : 0.06
+RAM Used in MB : 8.88671875
+No. of Threade created by process : 7
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.4609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 24524
+Name : conhost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:34
+CPU % : 0.00
+Memory % : 0.06
+RAM Used in MB : 9.078125
+No. of Threade created by process : 3
+No. of Files open by process : 4
+Vartual Memory Used in MB : 1.75390625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 25300
+Name : cmd.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:34
+CPU % : 0.00
+Memory % : 0.03
+RAM Used in MB : 4.265625
+No. of Threade created by process : 1
+No. of Files open by process : 0
+Vartual Memory Used in MB : 1.94921875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 25464
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:36
+CPU % : 0.00
+Memory % : 0.26
+RAM Used in MB : 40.69140625
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 20.81640625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 25592
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:42:52
+CPU % : 0.00
+Memory % : 0.41
+RAM Used in MB : 64.38671875
+No. of Threade created by process : 24
+No. of Files open by process : 21
+Vartual Memory Used in MB : 39.7578125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 25696
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:36
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 44.3125
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 21.9296875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 25708
+Name : browserhost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:34
+CPU % : 0.00
+Memory % : 0.10
+RAM Used in MB : 15.91796875
+No. of Threade created by process : 38
+No. of Files open by process : 0
+Vartual Memory Used in MB : 7.34375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 25808
+Name : TextInputHost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:47
+CPU % : 0.10
+Memory % : 0.78
+RAM Used in MB : 122.72265625
+No. of Threade created by process : 46
+No. of Files open by process : 35
+Vartual Memory Used in MB : 84.609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 25908
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:30
+CPU % : 0.00
+Memory % : 0.37
+RAM Used in MB : 59.046875
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 46.640625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 26224
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:03
+CPU % : 0.10
+Memory % : 2.21
+RAM Used in MB : 349.2265625
+No. of Threade created by process : 30
+No. of Files open by process : 35
+Vartual Memory Used in MB : 420.19140625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 26452
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:32
+CPU % : 0.30
+Memory % : 2.19
+RAM Used in MB : 345.73828125
+No. of Threade created by process : 38
+No. of Files open by process : 6
+Vartual Memory Used in MB : 430.5
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 26488
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.35
+RAM Used in MB : 54.4453125
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 37.07421875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 26520
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:02
+CPU % : 0.20
+Memory % : 0.64
+RAM Used in MB : 100.82421875
+No. of Threade created by process : 53
+No. of Files open by process : 154
+Vartual Memory Used in MB : 71.22265625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 26532
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:39
+CPU % : 0.00
+Memory % : 0.11
+RAM Used in MB : 17.69921875
+No. of Threade created by process : 9
+No. of Files open by process : 17
+Vartual Memory Used in MB : 9.00390625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 26604
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:45:46
+CPU % : 0.00
+Memory % : 0.59
+RAM Used in MB : 92.58203125
+No. of Threade created by process : 26
+No. of Files open by process : 23
+Vartual Memory Used in MB : 43.03125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 26928
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:57
+CPU % : 0.00
+Memory % : 0.54
+RAM Used in MB : 85.32421875
+No. of Threade created by process : 26
+No. of Files open by process : 23
+Vartual Memory Used in MB : 42.05859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 27076
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:05
+CPU % : 0.20
+Memory % : 0.45
+RAM Used in MB : 71.66796875
+No. of Threade created by process : 29
+No. of Files open by process : 21
+Vartual Memory Used in MB : 358.2890625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 27120
+Name : pet.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:53
+CPU % : 0.00
+Memory % : 0.04
+RAM Used in MB : 6.734375
+No. of Threade created by process : 1
+No. of Files open by process : 3
+Vartual Memory Used in MB : 1.87109375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 27128
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:39
+CPU % : 0.00
+Memory % : 0.23
+RAM Used in MB : 36.48828125
+No. of Threade created by process : 20
+No. of Files open by process : 19
+Vartual Memory Used in MB : 13.84765625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 27344
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:39
+CPU % : 0.00
+Memory % : 0.27
+RAM Used in MB : 42.14453125
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 22.16796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 27476
+Name : svchost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:38
+CPU % : 0.00
+Memory % : 0.30
+RAM Used in MB : 46.609375
+No. of Threade created by process : 11
+No. of Files open by process : 12
+Vartual Memory Used in MB : 11.91796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 27900
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:32
+CPU % : 0.00
+Memory % : 0.05
+RAM Used in MB : 8.546875
+No. of Threade created by process : 7
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.54296875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 28060
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:39
+CPU % : 0.00
+Memory % : 0.33
+RAM Used in MB : 51.46484375
+No. of Threade created by process : 33
+No. of Files open by process : 6
+Vartual Memory Used in MB : 46.8828125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 28140
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.31
+RAM Used in MB : 49.02734375
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 47.2734375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 28324
+Name : CrossDeviceResume.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:34
+CPU % : 0.00
+Memory % : 0.32
+RAM Used in MB : 50.28125
+No. of Threade created by process : 9
+No. of Files open by process : 8
+Vartual Memory Used in MB : 15.91796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 28504
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 46.0078125
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 29.7421875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 28548
+Name : ShellHost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:34
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 45.33984375
+No. of Threade created by process : 9
+No. of Files open by process : 7
+Vartual Memory Used in MB : 13.9921875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 28652
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:30
+CPU % : 0.00
+Memory % : 0.32
+RAM Used in MB : 50.22265625
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 34.60546875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 28768
+Name : OpenConsole.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:41
+CPU % : 0.10
+Memory % : 0.08
+RAM Used in MB : 13.296875
+No. of Threade created by process : 3
+No. of Files open by process : 0
+Vartual Memory Used in MB : 2.55859375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 29856
+Name : svchost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:33
+CPU % : 0.00
+Memory % : 0.07
+RAM Used in MB : 10.7578125
+No. of Threade created by process : 3
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.0703125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30092
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:50
+CPU % : 0.00
+Memory % : 0.45
+RAM Used in MB : 71.609375
+No. of Threade created by process : 26
+No. of Files open by process : 297
+Vartual Memory Used in MB : 52.99609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30132
+Name : cmd.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:54
+CPU % : 0.00
+Memory % : 0.03
+RAM Used in MB : 4.78515625
+No. of Threade created by process : 1
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.01953125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30232
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:28
+CPU % : 0.00
+Memory % : 0.55
+RAM Used in MB : 87.546875
+No. of Threade created by process : 23
+No. of Files open by process : 22
+Vartual Memory Used in MB : 70.93359375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30344
+Name : RuntimeBroker.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:03:31
+CPU % : 0.00
+Memory % : 0.18
+RAM Used in MB : 27.66015625
+No. of Threade created by process : 2
+No. of Files open by process : 2
+Vartual Memory Used in MB : 4.28125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30372
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:45:56
+CPU % : 0.00
+Memory % : 1.31
+RAM Used in MB : 205.90234375
+No. of Threade created by process : 25
+No. of Files open by process : 27
+Vartual Memory Used in MB : 140.18359375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30536
+Name : ShellExperienceHost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : stopped
+StartTime : 2026-02-14 12:51:13
+CPU % : 0.00
+Memory % : 0.45
+RAM Used in MB : 70.21875
+No. of Threade created by process : 22
+No. of Files open by process : 11
+Vartual Memory Used in MB : 23.36328125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30716
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:41
+CPU % : 0.00
+Memory % : 0.48
+RAM Used in MB : 75.890625
+No. of Threade created by process : 36
+No. of Files open by process : 3
+Vartual Memory Used in MB : 99.7265625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30804
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:41
+CPU % : 0.00
+Memory % : 0.06
+RAM Used in MB : 9.09375
+No. of Threade created by process : 7
+No. of Files open by process : 1
+Vartual Memory Used in MB : 2.47265625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30828
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:35
+CPU % : 0.00
+Memory % : 0.28
+RAM Used in MB : 43.63671875
+No. of Threade created by process : 22
+No. of Files open by process : 22
+Vartual Memory Used in MB : 21.66796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30844
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:47:42
+CPU % : 0.00
+Memory % : 0.19
+RAM Used in MB : 29.9140625
+No. of Threade created by process : 14
+No. of Files open by process : 9
+Vartual Memory Used in MB : 15.5625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30868
+Name : conhost.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:53
+CPU % : 0.00
+Memory % : 0.04
+RAM Used in MB : 6.65234375
+No. of Threade created by process : 2
+No. of Files open by process : 1
+Vartual Memory Used in MB : 1.1640625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30972
+Name : RuntimeBroker.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:01
+CPU % : 0.00
+Memory % : 0.08
+RAM Used in MB : 13.16015625
+No. of Threade created by process : 2
+No. of Files open by process : 0
+Vartual Memory Used in MB : 2.3046875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 30988
+Name : FortiTray.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:41:35
+CPU % : 0.10
+Memory % : 0.14
+RAM Used in MB : 22.390625
+No. of Threade created by process : 58
+No. of Files open by process : 6
+Vartual Memory Used in MB : 9.7734375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 31420
+Name : RadeonSoftware.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:20
+CPU % : 0.10
+Memory % : 0.33
+RAM Used in MB : 51.94140625
+No. of Threade created by process : 42
+No. of Files open by process : 29
+Vartual Memory Used in MB : 178.796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 31476
+Name : ONENOTEM.EXE
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:43:08
+CPU % : 0.00
+Memory % : 0.02
+RAM Used in MB : 2.92578125
+No. of Threade created by process : 2
+No. of Files open by process : 2
+Vartual Memory Used in MB : 3.20703125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 32196
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:46
+CPU % : 0.00
+Memory % : 0.18
+RAM Used in MB : 28.48046875
+No. of Threade created by process : 7
+No. of Files open by process : 2
+Vartual Memory Used in MB : 10.515625
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 32348
+Name : AMDRSSrcExt.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:47:22
+CPU % : 0.00
+Memory % : 0.24
+RAM Used in MB : 37.59375
+No. of Threade created by process : 9
+No. of Files open by process : 6
+Vartual Memory Used in MB : 41.91796875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 32448
+Name : msedge.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:44:15
+CPU % : 0.10
+Memory % : 0.91
+RAM Used in MB : 143.53125
+No. of Threade created by process : 59
+No. of Files open by process : 141
+Vartual Memory Used in MB : 67.125
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 32624
+Name : chrome.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:04:32
+CPU % : 0.00
+Memory % : 0.29
+RAM Used in MB : 45.4453125
+No. of Threade created by process : 21
+No. of Files open by process : 22
+Vartual Memory Used in MB : 23.04296875
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+PID : 32740
+Name : OneDrive.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:43
+CPU % : 0.70
+Memory % : 0.96
+RAM Used in MB : 151.8828125
+No. of Threade created by process : 45
+No. of Files open by process : 52
+Vartual Memory Used in MB : 117.49609375
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+--------------------------------------------------
+Top CPU usage process : 
+--------------------------------------------------
+--------------------------------------------------
+PID : 0
+Name : System Idle Process
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+StartTime : 1970-01-01 05:30:00
+CPU % : 1073.60
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+--------------------------------------------------
+Top Memory usage process : 
+--------------------------------------------------
+--------------------------------------------------
+PID : 2944
+Name : Code.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 12:00:55
+Memory % : 3.12
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+--------------------------------------------------
+Top Thread count process : 
+--------------------------------------------------
+--------------------------------------------------
+PID : 4
+Name : System
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+StartTime : 1970-01-01 05:30:00
+No. of Threade created by process : 322
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+--------------------------------------------------
+Top Open Files process : 
+--------------------------------------------------
+--------------------------------------------------
+PID : 30092
+Name : msedgewebview2.exe
+UserName : LAPTOP-RPJIN03O\Mayur londhe
+Status : running
+StartTime : 2026-02-14 11:42:50
+No. of Files open by process : 52
+Timestamp : 2026-02-14_13-17-16
+--------------------------------------------------
+--------------------------------------------------
+----------------- End of log file ----------------
+--------------------------------------------------
