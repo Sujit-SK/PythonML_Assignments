@@ -1,0 +1,11 @@
+--------------------------------------------------
+This is a log file created by Mayur Londhe
+This is Directroy Duplicates Automation
+--------------------------------------------------
+Duplicate files are below.
+Demo\hello.txt
+Demo\Temp\hello1.txt
+Demo\python.txt
+Demo\Temp\python.txt
+This log file is created at : Thu Feb  5 21:29:45 2026
+--------------------------------------------------

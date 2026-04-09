@@ -1,0 +1,12 @@
+--------------------------------------------------
+This is a log file created by Mayur Londhe
+This is Directroy Duplicates Files Delete Automation
+This log file is created at : Thu Feb  5 22:12:44 2026
+--------------------------------------------------
+Duplicate Deleted files are below.
+Demo\Temp1\DirectoryAutomation1.py
+Demo\Temp\DirectoryAutomation2.py
+Demo\Temp\DirectoryAutomation3.py
+Total files are delete :  3
+Total Time required for this process is : 0.007229328155517578 seconds
+--------------------------------------------------
